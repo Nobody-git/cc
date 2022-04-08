@@ -18,7 +18,7 @@
 - After the construction is completed, click the "artifact" button at the bottom of the operation page to download the binary file.
 - 构建完成后，单击操作页面最下方的“工件”按钮下载二进制文件。
 
-## Tips（提示）
+## Tips（提示）  
 
 - It may take a long time to create a `.config` file and build the OpenWrt firmware. Thus, before create repository to build your own firmware, you may check out if others have already built it which meet your needs by simply [search `Actions-Openwrt` in GitHub](https://github.com/search?q=Actions).
 - 创建一个“”可能需要很长时间。配置文件并构建OpenWrt固件。因此，在创建存储库来构建自己的固件之前，您可以通过在GitHub中搜索“Actions Openwrt”来查看其他人是否已经构建了满足您需求的固件(https://github.com/search?q=Actions).
